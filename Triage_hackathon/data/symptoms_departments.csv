@@ -1,0 +1,161 @@
+symptom_text,department,risk_level
+severe chest pain,Emergency,High
+cannot breathe properly,Emergency,High
+unconscious suddenly,Emergency,High
+heavy blood loss,Emergency,High
+face drooping suddenly,Emergency,High
+sudden paralysis,Emergency,High
+not responding,Emergency,High
+choking badly,Emergency,High
+severe accident injury,Emergency,High
+continuous seizures,Emergency,High
+heart pain spreading to arm,Emergency,High
+chest pain with sweating,Emergency,High
+vomiting blood,Emergency,High
+black stool with weakness,Emergency,High
+child not waking up,Emergency,High
+severe allergic swelling,Emergency,High
+throat closing feeling,Emergency,High
+severe breathing attack,Emergency,High
+massive headache sudden,Emergency,High
+severe stomach pain sudden,Emergency,High
+
+heart beating very fast,Cardiology,Medium
+heart beating irregular,Cardiology,Medium
+pressure in chest,Cardiology,Medium
+pain left side chest,Cardiology,Medium
+swelling in feet,Cardiology,Medium
+breath short while walking,Cardiology,Medium
+mild chest discomfort,Cardiology,Medium
+heart pounding at night,Cardiology,Medium
+tired with heart racing,Cardiology,Medium
+chest heaviness,Cardiology,Medium
+palpitations after exercise,Cardiology,Medium
+light chest pain,Cardiology,Low
+slight heart discomfort,Cardiology,Low
+
+breathing difficulty, Pulmonology,Medium
+cough for many days,Pulmonology,Medium
+cough with phlegm,Pulmonology,Medium
+wheezing sound breathing,Pulmonology,Medium
+tight chest breathing,Pulmonology,Medium
+breathless lying down,Pulmonology,Medium
+mild cough,Pulmonology,Low
+cold with cough,Pulmonology,Low
+dry cough,Pulmonology,Low
+chest congestion mild,Pulmonology,Low
+breath problem during night,Pulmonology,Medium
+pain when breathing deep,Pulmonology,Medium
+
+head spinning often,Neurology,Medium
+memory problem mild,Neurology,Medium
+blur vision sometimes,Neurology,Medium
+tingling in hands,Neurology,Medium
+difficulty speaking clearly,Neurology,Medium
+shaking hands,Neurology,Medium
+mild headache,Neurology,Low
+light dizziness,Neurology,Low
+sleeping too much,Neurology,Low
+sleep trouble,Neurology,Low
+confusion sometimes,Neurology,Medium
+weakness one side body,Neurology,High
+sudden vision problem,Neurology,High
+
+stomach pain after food,Gastroenterology,Medium
+gas trouble,Gastroenterology,Low
+loose motion mild,Gastroenterology,Low
+vomiting once,Gastroenterology,Low
+nausea after eating,Gastroenterology,Low
+bloating feeling,Gastroenterology,Low
+burning in stomach,Gastroenterology,Medium
+yellow eyes,Gastroenterology,High
+severe abdominal cramps,Gastroenterology,Medium
+blood in stool,Gastroenterology,High
+loss of appetite,Gastroenterology,Low
+indigestion daily,Gastroenterology,Medium
+constipation problem,Gastroenterology,Low
+stomach pain with fever,Gastroenterology,Medium
+severe stomach swelling,Gastroenterology,High
+
+back pain mild,Orthopedics,Low
+knee pain walking,Orthopedics,Medium
+shoulder pain lifting arm,Orthopedics,Medium
+muscle pain after work,Orthopedics,Low
+neck pain sitting long,Orthopedics,Low
+joint swelling,Orthopedics,Medium
+fracture suspected,Orthopedics,High
+cannot move leg,Orthopedics,High
+bone pain severe,Orthopedics,Medium
+ankle twisted,Orthopedics,Medium
+wrist pain,Orthopedics,Low
+hip pain elderly,Orthopedics,Medium
+difficulty standing long,Orthopedics,Low
+
+skin itching mild,Dermatology,Low
+red rash on hand,Dermatology,Low
+acne problem,Dermatology,Low
+dry skin patches,Dermatology,Low
+skin burning sensation,Dermatology,Medium
+white spots on skin,Dermatology,Medium
+pus filled bumps,Dermatology,Medium
+skin peeling,Dermatology,Low
+hair falling,Dermatology,Low
+dark patches on face,Dermatology,Low
+itching whole body,Dermatology,Medium
+skin swelling suddenly,Dermatology,High
+
+high fever,General Medicine,Medium
+mild fever,General Medicine,Low
+body weakness,General Medicine,Low
+shivering with fever,General Medicine,Medium
+cold and runny nose,General Medicine,Low
+sore throat mild,General Medicine,Low
+fatigue daily,General Medicine,Low
+night sweats,General Medicine,Medium
+weight loss sudden,General Medicine,High
+persistent tiredness,General Medicine,Medium
+headache with cold,General Medicine,Low
+body aches with fever,General Medicine,Medium
+vomiting with weakness,General Medicine,Medium
+dizziness with fever,General Medicine,Medium
+not feeling hungry,General Medicine,Low
+
+urine pain,Urology,Medium
+frequent urination,Urology,Low
+blood in urine,Urology,High
+lower abdomen urine pain,Urology,Medium
+burning urine,Urology,Medium
+difficulty urinating,Urology,Medium
+urine leakage,Urology,Low
+
+ear pain,ENT,Low
+ear discharge,ENT,Medium
+hearing reduced,ENT,Medium
+nose block,ENT,Low
+nose bleeding mild,ENT,Medium
+throat pain severe,ENT,Medium
+voice change sudden,ENT,Medium
+
+eye redness,Ophthalmology,Low
+eye pain,Ophthalmology,Medium
+blurred vision sudden,Ophthalmology,High
+itchy eyes,Ophthalmology,Low
+watering eyes,Ophthalmology,Low
+light sensitivity,Ophthalmology,Medium
+
+anxiety feeling,Psychiatry,Low
+panic attack feeling,Psychiatry,Medium
+sadness for long,Psychiatry,Medium
+sleep anxiety,Psychiatry,Low
+fear without reason,Psychiatry,Low
+confused thoughts,Psychiatry,Medium
+
+period pain severe,Gynecology,Medium
+irregular periods,Gynecology,Medium
+heavy bleeding periods,Gynecology,High
+pregnancy pain,Gynecology,High
+lower abdomen pain female,Gynecology,Medium
+
+testicular pain,Urology,High
+groin pain,Urology,Medium
+swelling testicle,Urology,High
